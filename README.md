@@ -34,7 +34,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 ## Getting started
 
-After cloning the repository begin by installing dependencies at the root.
+After cloning the repository begin by installing dependencies at the rootssss.
 
 ```shell
 yarn
